@@ -1,0 +1,7 @@
+# Build output
+/genw
+/main
+
+# Local input/output
+urls.txt
+wordlist.txt
